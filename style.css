@@ -1,13 +1,12 @@
 body{
+    background:black;
     text-align:center;
     margin-top:100px;
 }
 
-.clip{
-    font-size:100px;
-    font-weight:bold;
-    background:url("sunflower.jpg");
-    background-size:cover;
-    -webkit-background-clip:text;
+.stroke{
+    font-size:80px;
     color:transparent;
+    -webkit-text-stroke:3px yellow;
+    font-weight:bold;
 }
