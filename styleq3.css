@@ -1,0 +1,7 @@
+.columns{
+    column-count:3;
+    column-gap:30px;
+    column-rule:2px solid gray;
+    padding:20px;
+    font-size:18px;
+}
